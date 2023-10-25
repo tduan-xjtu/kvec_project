@@ -7,4 +7,4 @@ Datasets and code implementation for paper: Representation Learning of Tangled K
 
 # Project Structure
 
-# Running step
+# Code execution steps
